@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header image](./img/header_blank.jpg)
+<img src="https://raw.githubusercontent.com/sepro/sepro/master/img/header_blank.jpg" alt="banner for the GitHub profile page of Sebastian Proost">
 <!--
 **sepro/sepro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
