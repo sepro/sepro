@@ -5,6 +5,7 @@
 I'm a bioinformatician that tries to leverage modern web-technologies to create tools to explore large, complex datasets in an intuitive and user-friendly manner. Using data science I try to get new insights linking microbiology to human health. The programming language I enjoy using most is Python, where I use Flask, SciKit-Learn, ... almost daily. Some javascript for the front-end is required as well, here I make use of existing visualization solutions like cytoscape.js and charts.js though I am known to dabble a little with modern frameworks like React and Stencil from time to time.
 
 [![Sepro's github stats](https://github-readme-stats.vercel.app/api?username=sepro)](https://github.com/anuraghazra/github-readme-stats)
+[![Sepro's github stats](https://github-readme-stats.vercel.app/api?username=sepro)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Find me around the web 🌎:
   * My CV : [https://sebastian.proost.science](https://sebastian.proost.science)
