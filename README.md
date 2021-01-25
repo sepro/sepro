@@ -9,3 +9,5 @@ I'm a bioinformatician that tries to leverage modern web-technologies to create 
   * My geeky blog: [https://blog.4dcu.be](https://blog.4dcu.be)
   * Twitter: [@ProostSebastian](https://twitter.com/ProostSebastian)
   * I was a guest on Talk Python : [Talk Python Episode #237](https://talkpython.fm/episodes/show/237/a-gut-feeling-about-python)
+
+[![Sepro's github stats](https://github-readme-stats.vercel.app/api?username=sepro)](https://github.com/anuraghazra/github-readme-stats)
