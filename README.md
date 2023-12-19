@@ -9,6 +9,6 @@ I'm a bioinformatician that tries to leverage modern web-technologies to create 
 ## Find me around the web 🌎:
   * My CV : [https://sebastian.proost.science](https://sebastian.proost.science)
   * My geeky blog: [https://blog.4dcu.be](https://blog.4dcu.be)
-  * Twitter: [@ProostSebastian](https://twitter.com/ProostSebastian)
+  * 𝕏: [@ProostSebastian](https://x.com/ProostSebastian)
   * I was a guest on Talk Python : [Talk Python Episode #237](https://talkpython.fm/episodes/show/237/a-gut-feeling-about-python)
 
